@@ -9,19 +9,19 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <a href="https://www.linkedin.com/in/zaidloni/">
+        <a href="https://www.linkedin.com/in/shaikhanas02/">
           <LinkedInIcon />
         </a>
         <a
-          onClick={() => (window.location.href = "mailto:zaidloni20@gmail.com")}
+          onClick={() => (window.location.href = "mailto:shaikhanas7745@gmail.com")}
         >
           <EmailIcon />
         </a>
-        <a href="https://github.com/zaidloni">
+        <a href="https://github.com/shaikhanas02">
           <GithubIcon />
         </a>
       </div>
-      <p> &copy; 2023 Zaid Loni</p>
+      <p> &copy; 2023 Anas Shaikh</p>
     </div>
   );
 }

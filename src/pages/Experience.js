@@ -38,7 +38,7 @@ function Experience() {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="Aug 2022 - Feb 2023"
+          date="Aug 2022 - Present"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<SchoolIcon />}
         >
@@ -53,15 +53,16 @@ function Experience() {
 
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="Mar 2023 - June 2023"
+          date="May 2023 - Present"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Frontend Intern
+            Analyst
           </h3>
+          
           <h4 className="vertical-timeline-element-subtitle">
-            Sparklin
+            Eclerx
           </h4>
           <p>
            Worked on a internal product using NextJS, Tailwind, Typescript 

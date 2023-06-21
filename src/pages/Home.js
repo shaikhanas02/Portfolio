@@ -8,20 +8,20 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
-        <h2> Hi, My Name is Zaid Loni</h2>
+        <h2> Hi, My Name is Anas Shaikh</h2>
         <div className="prompt">
           <p>A Front-End Engineer with a passion for learning and creating.</p>
-          <a href="https://www.linkedin.com/in/zaidloni/">
+          <a href="https://www.linkedin.com/in/shaikhanas02/">
             <LinkedInIcon />
           </a>
           <a
             onClick={() =>
-              (window.location.href = "mailto:zaidloni20@gmail.com")
+              (window.location.href = "mailto:shaikhanas7745@gmail.com")
             }
           >
             <EmailIcon />
           </a>
-          <a href="https://github.com/zaidloni">
+          <a href="https://github.com/shaikhanas02">
             <GithubIcon />
           </a>
         </div>
@@ -38,12 +38,12 @@ function Home() {
           </li>
           <li className="item">
             <h2>Languages</h2>
-            <span>JavaScript, TypeScript, Python, C</span>
+            <span>JavaScript, TypeScript, Java</span>
           </li>
           <li className="item">
             <h2>Others</h2>
             <span>
-              Firebase, Figma, BitBucket, Notion, GIT, Github, Puppeteer
+              Firebase, Figma, BitBucket, GIT, Github
             </span>
           </li>
         </ol>
